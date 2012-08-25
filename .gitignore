@@ -7,3 +7,4 @@ lib/
 dev/
 examples/*/*.js
 scratch/
+.DS_Store
